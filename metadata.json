@@ -1,0 +1,8 @@
+{
+  "name": "Data Penduduk V.1.0.7",
+  "description": "Aplikasi pengelolaan database penduduk desa terintegrasi Google Spreadsheet dan Apps Script dengan proteksi PIN, log aktivitas, profil petugas, dashboard ringkas, dan notifikasi real-time.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
